@@ -4,7 +4,7 @@
   "description": "Front-End inverted index project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node jasmine/spec"
   },
   "repository": {
     "type": "git",
