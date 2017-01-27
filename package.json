@@ -27,7 +27,6 @@
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.9.0",
     "gulp": "latest",
-    "gulp-concat": "latestnpm",
     "gulp-connect": "latest",
     "gulp-uglify": "latest",
     "gulp-util": "latest"
